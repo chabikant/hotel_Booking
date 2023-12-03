@@ -1,3 +1,11 @@
+The code is for Hotel booking website with mutlple place and price for the user 
+I have used the filowing api for collecting the data "https://hotels-api-4ltr.onrender.com/api"
+I have used lazy loading it means while the server will send the data in that mean time it not be a look like the project is stuck and looks good as user perspective 
+I have also used reqct Query to fetching the data from the api, it is very noe to react now days and trend also 
+I also used the pagination at the bottom of the page with back anf forward movement for the page there is button for the user 
+I have also devlop the search bar where you can write name of the place for seraching hotel 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
